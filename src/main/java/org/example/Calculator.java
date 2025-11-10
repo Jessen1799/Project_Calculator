@@ -6,12 +6,9 @@ public class Calculator
     /*
     Method to subtract two declared variables
      */
-    public void subtractNumbers()
+    public void subtractNumbers(int num1, int num2)
     {
-        int num1 = 4;
-        int num2 = 6;
         int sum = num1 - num2;
-
         System.out.println(sum);
     }
 
