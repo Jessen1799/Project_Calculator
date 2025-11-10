@@ -3,6 +3,9 @@ package org.example;
 public class Calculator
 {
 
+    /*
+    Method to subtract two declared variables
+     */
     public void subtractNumbers()
     {
         int num1 = 4;
